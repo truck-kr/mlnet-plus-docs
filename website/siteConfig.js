@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: '물류넷!!', // Title for your website.
-  tagline: '공차정보+ 화물정보',
+  title: '물류넷', // Title for your website.
+  tagline: '공차정보+, 화물정보 사용자들을 위해',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -30,19 +30,19 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: '물류넷',
-  organizationName: 'Mlnet',
+  projectName: 'mlnet-plus-docs',
+  organizationName: 'truck-kr',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: '문서'},
+    {doc: 'intro', label: '문서'},
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: '도움말'},
     {blog: true, label: '블로그'},
-    {search: true},
+    {search: true}
   ],
 
   // If you have users set above, you add it here:

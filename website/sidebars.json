@@ -1,8 +1,14 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "기본사항": ["intro"],
+    "공차정보+": [
+      "truckplus",
+      "company-mng",
+      "truck-member-mng",
+      "config"
+    ],
+    "화물정보": ["doc2"],
+    "화물정보(앱)": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
